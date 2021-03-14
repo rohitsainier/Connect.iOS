@@ -6,11 +6,44 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		22B384A825FDF02100CE639C /* Combine.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Combine.pdf; sourceTree = "<group>"; };
+		22B384A925FDF02100CE639C /* CustomXcodeTemplate.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = CustomXcodeTemplate.pdf; sourceTree = "<group>"; };
+		22B384AA25FDF02100CE639C /* HighOrderFunction.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = HighOrderFunction.pdf; sourceTree = "<group>"; };
+		22B384AB25FDF02100CE639C /* HumanInterface1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = HumanInterface1.pdf; sourceTree = "<group>"; };
+		22B384AD25FDF02200CE639C /* URLSession.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = URLSession.pdf; sourceTree = "<group>"; };
+		22B384AE25FDF02200CE639C /* INIT.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = INIT.pdf; sourceTree = "<group>"; };
+		22B384AF25FDF02200CE639C /* URL_Decoding.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = URL_Decoding.pdf; sourceTree = "<group>"; };
+		22B384B025FDF02200CE639C /* Github_Conflicts.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Github_Conflicts.pdf; sourceTree = "<group>"; };
+		22B384B125FDF02200CE639C /* DependencyInjection.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = DependencyInjection.pdf; sourceTree = "<group>"; };
+		22B384B225FDF02200CE639C /* AutomaticInit.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AutomaticInit.pdf; sourceTree = "<group>"; };
+		22B384B325FDF02200CE639C /* AssociatedType.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = AssociatedType.pdf; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		22B384A025FDEFD900CE639C = {
 			isa = PBXGroup;
 			children = (
+				22B384A725FDEFEC00CE639C /* PDF */,
 			);
+			sourceTree = "<group>";
+		};
+		22B384A725FDEFEC00CE639C /* PDF */ = {
+			isa = PBXGroup;
+			children = (
+				22B384B325FDF02200CE639C /* AssociatedType.pdf */,
+				22B384B225FDF02200CE639C /* AutomaticInit.pdf */,
+				22B384A825FDF02100CE639C /* Combine.pdf */,
+				22B384A925FDF02100CE639C /* CustomXcodeTemplate.pdf */,
+				22B384B125FDF02200CE639C /* DependencyInjection.pdf */,
+				22B384B025FDF02200CE639C /* Github_Conflicts.pdf */,
+				22B384AA25FDF02100CE639C /* HighOrderFunction.pdf */,
+				22B384AB25FDF02100CE639C /* HumanInterface1.pdf */,
+				22B384AE25FDF02200CE639C /* INIT.pdf */,
+				22B384AF25FDF02200CE639C /* URL_Decoding.pdf */,
+				22B384AD25FDF02200CE639C /* URLSession.pdf */,
+			);
+			path = PDF;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
